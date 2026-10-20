@@ -1,0 +1,22 @@
+RINGKASAN HASIL EKSPERIMEN
+File gambar        : images\foto-bersama.jpg
+Shape array        : (1600, 1200, 3)
+Dtype              : uint8
+Nilai minimum      : 0
+Nilai maksimum     : 255
+Jumlah elemen      : 5760000
+RGB piksel (100,200): R=179, G=223, B=250
+Array identik      : True
+Selisih maksimum   : 0
+Ukuran data mentah : 5760000 byte
+Ukuran file JPEG   : 278444 byte
+
+Matriks kanal merah area 8x8 (baris 100, kolom 200):
+[[179 179 179 179 179 179 179 179]
+ [179 179 179 179 179 179 179 179]
+ [179 179 179 179 179 179 179 179]
+ [178 178 178 178 178 178 178 178]
+ [178 178 178 179 179 179 180 180]
+ [178 178 178 179 179 179 180 180]
+ [178 178 178 179 179 179 180 180]
+ [178 178 178 179 179 179 180 180]]
